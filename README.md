@@ -19,36 +19,23 @@ c. Better Service
 
 ### UML DIAGRAMS:
 
-### USE CASE DIAGRAM:
-![image](https://github.com/user-attachments/assets/d9f3b13c-6a35-479a-aa41-043810fb9c52)
+# Usecase diagram:
+![usecase5](https://github.com/user-attachments/assets/ea2314ef-37e1-4234-a9ec-8d70d00d7c9a)
 
+# Class diagram:
+![class5](https://github.com/user-attachments/assets/c1af288a-5877-496c-84c3-93393f25da27)
 
-### CLASS DIAGRAM:
+# Sequence diagram:
+![seq5](https://github.com/user-attachments/assets/09b0bd62-aafa-4f36-b920-10742c2842a9)
 
-![image](https://github.com/user-attachments/assets/c91cbaa6-d96e-41f9-9775-01640747434c)
+# Communication diagram:
+![comm5](https://github.com/user-attachments/assets/9eb5369e-0ba4-4c13-a9a7-3c6e89e07c2f)
 
+# Activity diagram:
+![activity5](https://github.com/user-attachments/assets/4efba880-4ae4-4193-b1f8-3f38e95fb746)
 
-### PACKAGE DIAGRAM:
-
-![image](https://github.com/user-attachments/assets/a2a8b771-dbb5-40f5-8479-cdb5092a24f4)
-
-
-### SEQUENCE DIAGRAM:
-
-
-![image](https://github.com/user-attachments/assets/240d050e-9322-4032-bb1a-ecfe9c4f4f89)
-
-
-
-### ACTIVITY DIAGRAM:
-
-![image](https://github.com/user-attachments/assets/bd0fb174-f102-4e21-8940-05cd6b1f4e70)
-
-
-### COMMUNICATION DIAGRAM:
-
-
-![image](https://github.com/user-attachments/assets/d7fe82ac-7855-4b14-aa1a-255a61bfbd2d)
+# Package diagram:
+![package5](https://github.com/user-attachments/assets/9717802c-4d51-4504-b053-978417277cf3)
 
 
 ### RESULT:
